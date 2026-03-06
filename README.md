@@ -20,4 +20,4 @@ A cross-platform educational app interface built with **React + TypeScript + Exp
   - **Backend (Django/Python)**.  
   - **Frontend (TypeScript)**.
 
-📫 Connect with me: [LinkedIn](linkedin.com/in/aina-serra-ferré-85a331354)
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/aina-serra-ferr%C3%A9-85a331354/)
