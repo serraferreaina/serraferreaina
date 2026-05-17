@@ -1,7 +1,7 @@
 Hi there! I'm Aina Serra Ferre 👋 (@serraferreaina)
 
 🛠️ Tech Stack  
-JavaScript | TypeScript | Python | C/C++ | HTML5 | CSS3 | Expo
+JavaScript | TypeScript | C/C++ | HTML5 | CSS3 | Expo
 
 📂 Featured Projects  
 
